@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227853458570",
+    "project_id": "pet-fit-1fbd6",
+    "storage_bucket": "pet-fit-1fbd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227853458570:android:3792426fa5afe8f575a173",
+        "android_client_info": {
+          "package_name": "com.praveen.pet_fit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227853458570-nnpia2njpk1r0f953pbcn0i7bd0idobc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW6JjVxiWYn478XjAy1SsSXr4Kd_fgh1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227853458570-nnpia2njpk1r0f953pbcn0i7bd0idobc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
