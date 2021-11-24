@@ -1,6 +1,6 @@
 # pet_fit
 
-A flutter application for  adopting pets
+Flutter mini project.
 
 ## Getting Started
 
