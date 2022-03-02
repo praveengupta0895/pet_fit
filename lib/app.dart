@@ -57,7 +57,7 @@ class _AppViewState extends State<AppView> {
       theme:ThemeData(
         textButtonTheme: TextButtonThemeData(
           style: TextButton.styleFrom(
-            primary: Colors.black
+            primary: Colors.green
           )
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
